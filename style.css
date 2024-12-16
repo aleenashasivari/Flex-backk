@@ -1,0 +1,41 @@
+#box-blue {
+    height: 200px;
+    width: 200px;
+    border: 2px solid yellow;
+}
+#box-red {
+    height: 200px;
+    width: 200px;
+    border: 2px solid coral;
+}
+#cc {
+    display: flex ;
+    margin-left: 100px;
+    
+}
+#y {
+    height: 200px;
+    width: 200px;
+    border: 2px solid cornflowerblue;
+
+}
+#r {
+    height: 200px;
+    width: 200px;
+    border: 2px solid  blue;
+}
+#t {
+    height: 200px;
+    width: 200px;
+    border: 2px solid orange;
+}
+#dd {
+    display: flex;
+    
+}
+#Q {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 200px;
+}
